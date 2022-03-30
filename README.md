@@ -111,6 +111,7 @@ python3 -m torch.distributed.launch \
 ```
 
 > Example for transferring from ImageNet to COCO keypoint
+>
 > (only transfer the feature extractor while keep the classification layer unchanged)
 
 ```bash
