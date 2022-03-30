@@ -32,7 +32,7 @@ Supported tasks:
 - seg_ade20k
 - keypoint_coco
 
-> Examples for training SuperTickets on ImageNet, COCO keypoint, Cityscapes, and ADE20K under 80%/90% sparsity
+> Examples for training SuperTickets on ImageNet, COCO keypoint, Cityscapes, and ADE20K
 
 ```bash
 python3 -m torch.distributed.launch \
@@ -110,7 +110,8 @@ python3 -m torch.distributed.launch \
 --test_only True
 ```
 
-> Example for transferring from ImageNet to COCO keypoint (only transfer the feature extractor while keep the classification layer unchanged)
+> Example for transferring from ImageNet to COCO keypoint
+> (only transfer the feature extractor while keep the classification layer unchanged)
 
 ```bash
 python3 -m torch.distributed.launch \
