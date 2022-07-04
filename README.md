@@ -2,7 +2,7 @@
 
 **Haoran You**, Baopu Li, Zhanyi Sun, Xu Ouyang, Yingyan Lin
 
-Submitted to ECCV 2022
+Accepted by ECCV 2022
 
 ## Environment
 
