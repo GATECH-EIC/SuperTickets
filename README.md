@@ -217,7 +217,12 @@ python3 -m torch.distributed.launch \
 
 3. If you find our work useful in your research please consider citing our paper:
     ```
-    TBD
+    @inproceedings{SuperTickets,
+        title={SuperTickets: Drawing Task-Agnostic Lottery Tickets from Supernets via Jointly Architecture Searching and Parameter Pruning},
+        author={Haoran You, Baopu Li, Zhanyi Sun, Xu Ouyang, Yingyan Lin},
+        booktitle={European Conference on Computer Vision (ECCV)},
+        year={2022},
+    }
     ```
 
 ## Acknowledgement
